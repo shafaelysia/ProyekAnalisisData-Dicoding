@@ -14,5 +14,5 @@ streamlit run dashboard.py
 
 
 ## Deployed dashboard URL
-[https://dashboard-bikesharing.streamlit.app/](https://dashboard-bikesharing.streamlit.app/)
+[https://proyekdashboard-bikesharing.streamlit.app/](https://proyekdashboard-bikesharing.streamlit.app/)
 ![Dashboard Screenshot](https://i.postimg.cc/wMC1mZ0D/Screenshot-619.png)
