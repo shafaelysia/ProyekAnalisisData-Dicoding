@@ -9,7 +9,7 @@ pip install -r "requirements.txt"
 
 
 ## Run steamlit app on local
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 
 
 
