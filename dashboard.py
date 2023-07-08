@@ -48,7 +48,7 @@ def by_hour(df):
 
 
 # Load csv files
-main_df = pd.read_csv("../dashboard/main_data.csv")
+main_df = pd.read_csv("main_data.csv")
 datetime_columns = ["dteday"]
 main_df.sort_values(by="dteday", inplace=True)
 main_df.reset_index(inplace=True)
